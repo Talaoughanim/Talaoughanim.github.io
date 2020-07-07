@@ -1,0 +1,22 @@
+body{
+    background-image: url("fond1.jpg");
+}
+
+h1{
+    font-family: Merriweather;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 30px;
+    line-height: 38px;
+    
+    color: #FFFFFF; 
+}
+h2{
+    font-family: Merriweather;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 30px;
+    line-height: 38px;
+    
+    color: #FFFFFF; 
+}
